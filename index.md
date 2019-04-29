@@ -26,6 +26,9 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="300" alt="Hiring poster" src="Hiring poster W19 (3) copy.jpg">
   <img width="300" alt="Recruitment Poster" src="Alpha Recruitment Poster W18.jpg">
   <img width="300" alt="Menu Poster" src="Le Menu.png">
+<p align="center">
+  <img width="600" alt="Business Cards" src="Business Cards.png">
+</p>
 </p>
 <p align="center">
   <img width="600" alt="Event Cover Banner" src="EOT S17 Banner.jpg">
