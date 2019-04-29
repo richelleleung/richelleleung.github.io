@@ -23,8 +23,8 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 </p>
 <p align="center">
   <img width="300" alt="Alpha Info Poster" src="Alpha Info Poster.jpg">
-  <img width="300" alt="Recruitment Poster" src="Alpha Recruitment Poster W18.jpg">
   <img width="300" alt="Hiring poster" src="Hiring poster W19 (3) copy.jpg">
+  <img width="300" alt="Recruitment Poster" src="Alpha Recruitment Poster W18.jpg">
   <img width="300" alt="Menu Poster" src="Le Menu.png">
 </p>
 <p align="center">
@@ -44,5 +44,5 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 </p>
 ### Contact Me!
 
-Want to know more about me? Please feel free to email me at richelle.leung@yahoo.com
+Want to know more about me? Please feel free to email me at [richelle.leung@yahoo.com](mailto:richelle.leung@yahoo.com)
 <br/> Check out [@doddchellee](https://www.instagram.com/doddchellee/) on instagram for my other leisure work as well!
