@@ -37,7 +37,7 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="600" alt="Radio Drama Thumbnail" src="Radio Drama Title copy.jpg">
 </p>
 <p align="center">
-  <img width="300" alt="Camp Logo" src="Logo CaMP black.png">
+  <img width="300" alt="Camp Logo" src="Logo CaMP colored.png">
   <img width="300" alt="JCAW Logo" src="JCAW logo 9.jpg">
 </p>
 <p align="center">
