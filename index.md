@@ -38,7 +38,7 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 </p>
 <p align="center">
   <img width="300" alt="Camp Logo" src="Logo CaMP colored.png">
-  <img width="300" alt="JCAW Logo" src="JCAW logo 9.jpg">
+  <img width="300" alt="JCAW Logo" src="JCAW logo 9 cropped.png">
 </p>
 <p align="center">
   <img width="300" alt="Self-reflection Grid Photograph Edits" src="Self-reflection Grid Photographs edit.png">
