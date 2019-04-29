@@ -37,7 +37,7 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="600" alt="Event Cover Banner" src="EOT S17 Banner.jpg">
 </p>
 <p align="center">
-  <img width="300" alt="Self-reflection Grid Photograph Edits" src="Self-reflection Grid Photograph Edits.png">
+  <img width="300" alt="Self-reflection Grid Photograph Edits" src="Self-reflection Grid Photographs edit.png">
   <img width="300" alt="Photogram" src="Photogram_Time.jpg">
 </p>
 
