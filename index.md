@@ -22,6 +22,12 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="300" alt="Megazine Layout Designs" src="7  magazine.jpg">
 </p>
 <p align="center">
+  <img width="300" alt="Alpha Info Poster" src="Alpha Info Poster.jpg">
+  <img width="300" alt="Recruitment Poster" src="Alpha Recruitment Poster W18.jpg">
+  <img width="300" alt="Hiring poster" src="Hiring poster W19 (3) copy.jpg">
+  <img width="300" alt="Menu Poster" src="Le Menu.png">
+</p>
+<p align="center">
   <img width="600" alt="Radio Drama Thumbnail" src="Radio Drama Title copy.jpg">
 </p>
 <p align="center">
@@ -29,10 +35,6 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 </p>
 <p align="center">
   <img width="600" alt="Event Cover Banner" src="EOT S17 Banner.jpg">
-</p>
-<p align="center">
-  <img width="300" alt="Alpha Info Poster" src="Alpha Info Poster.jpg">
-  <img width="300" alt="Recruitment Poster" src="Alpha Recruitment Poster W18.jpg">
 </p>
 <p align="center">
   <img width="300" alt="Self-reflection Grid Photograph Edits" src="Self-reflection Grid Photograph Edits.png">
