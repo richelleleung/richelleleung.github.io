@@ -35,7 +35,7 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="300" alt="Recruitment Poster" src="Alpha Recruitment Poster W18.jpg">
 </p>
 <p align="center">
-  <img width="600" alt="Business Cards" src="Business Cards">
+  <img width="600" alt="Business Cards" src="Business Cards.png">
 </p>
 
 ### Contact Me!
