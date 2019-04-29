@@ -7,26 +7,14 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 
 ### My Work
 
-<figure>
-  <div style="display:flex">
-    <div style="flex">
-        <img src="Text-to-image_Twisted.jpg" alt="Twisted">
-    </div>
-     <div style="flex">
-        <img src="Text-to-image_Twisted.jpg" alt="Twisted">
-    </div>
-     <div style="flex">
-        <img src="Text-to-image_Twisted.jpg" alt="Twisted">
-    </div>
-     <div style="flex">
-        <img src="Text-to-image_Twisted.jpg" alt="Twisted">
-    </div>
-     <div style="flex">
-        <img src="Text-to-image_Twisted.jpg" alt="Twisted">
-    </div>
-  </div>
-  <figcaption>Twisted</figcaption>
-</figure>
+<p align="center">
+  <img width="300" alt="Twisted" src="Text-to-image_Twisted.jpg">
+  <img width="300" alt="Broke" src="Text-to-image_Broke.jpg">
+  <img width="300" alt="Lineage" src="Text-to-image_Lineage.jpg">
+  <img width="300" alt="Insomnia" src="Text-to-image_Insomnia.jpg">
+  <img width="300" alt="Radio Drama Thumbnail" src="Radio Drama Title copy.jpg">
+  <img width="175" alt="Reveal" src="Reveal.jpg">
+</p>
 
 
 | | | |
