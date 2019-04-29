@@ -16,10 +16,10 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 <p align="center">
   <img width="300" alt="Megazine Layout Designs" src="4 InstaSecrets.jpg">
   <img width="300" alt="Megazine Layout Designs" src="5 InstaSecrets.jpg">
-  <img width="300" alt="Megazine Layout Designs" src="20 InstaSecrets.jpg">
-  <img width="300" alt="Megazine Layout Designs" src="21 InstaSecrets.jpg">
-  <img width="300" alt="Megazine Layout Designs" src="6 InstaSecrets.jpg">
-  <img width="300" alt="Megazine Layout Designs" src="7 InstaSecrets.jpg">
+  <img width="300" alt="Megazine Layout Designs" src="20 magazine.jpg">
+  <img width="300" alt="Megazine Layout Designs" src="21 magazine.jpg">
+  <img width="300" alt="Megazine Layout Designs" src="6 magazine.jpg">
+  <img width="300" alt="Megazine Layout Designs" src="7 magazine.jpg">
 </p>
 <p align="center">
   <img width="600" alt="Radio Drama Thumbnail" src="Radio Drama Title copy.jpg">
