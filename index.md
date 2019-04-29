@@ -7,6 +7,28 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 
 ### My Work
 
+<figure>
+  <div style="display:flex">
+    <div style="flex">
+        <img src="Text-to-image_Twisted.jpg" alt="Twisted">
+    </div>
+     <div style="flex">
+        <img src="Text-to-image_Twisted.jpg" alt="Twisted">
+    </div>
+     <div style="flex">
+        <img src="Text-to-image_Twisted.jpg" alt="Twisted">
+    </div>
+     <div style="flex">
+        <img src="Text-to-image_Twisted.jpg" alt="Twisted">
+    </div>
+     <div style="flex">
+        <img src="Text-to-image_Twisted.jpg" alt="Twisted">
+    </div>
+  </div>
+  <figcaption>Twisted</figcaption>
+</figure>
+
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="300" alt="Twisted" src="Text-to-image_Twisted.jpg">  |  <img width="300" alt="Broke" src="Text-to-image_Broke.jpg"> | <img width="300" alt="Lineage" src="Text-to-image_Lineage.jpg"> |
