@@ -25,7 +25,7 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="600" alt="Radio Drama Thumbnail" src="Radio Drama Title copy.jpg">
 </p>
 <p align="center">
-  <img width="600" alt="Sample T-shirt w/ Logo" src="CaMP Sample T-shirt w/ Logo.jpg">
+  <img width="600" alt="Sample T-shirt w/ Logo" src="CaMP Sample T shirt with Logo.jpg">
 </p>
 
 
