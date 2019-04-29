@@ -25,23 +25,9 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="600" alt="Radio Drama Thumbnail" src="Radio Drama Title copy.jpg">
 </p>
 <p align="center">
-  <img width="300" alt="Twisted" src="Text-to-image_Twisted.jpg">
-  <img width="300" alt="Broke" src="Text-to-image_Broke.jpg">
-  <img width="300" alt="Lineage" src="Text-to-image_Lineage.jpg">
-  <img width="300" alt="Insomnia" src="Text-to-image_Insomnia.jpg">
+  <img width="600" alt="Sample T-shirt w/ Logo" src="CaMP Sample T-shirt w/ Logo.jpg">
 </p>
-<p align="center">
-  <img width="300" alt="Twisted" src="Text-to-image_Twisted.jpg">
-  <img width="300" alt="Broke" src="Text-to-image_Broke.jpg">
-  <img width="300" alt="Lineage" src="Text-to-image_Lineage.jpg">
-  <img width="300" alt="Insomnia" src="Text-to-image_Insomnia.jpg">
-</p>
-<p align="center">
-  <img width="300" alt="Twisted" src="Text-to-image_Twisted.jpg">
-  <img width="300" alt="Broke" src="Text-to-image_Broke.jpg">
-  <img width="300" alt="Lineage" src="Text-to-image_Lineage.jpg">
-  <img width="300" alt="Insomnia" src="Text-to-image_Insomnia.jpg">
-</p>
+
 
 
 ### Contact Me!
