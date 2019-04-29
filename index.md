@@ -8,12 +8,18 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 ### My Work
 
 <p align="center">
-  <img width="300" alt="Twisted" src="Text-to-image_Twisted.jpg">
-  <img width="300" alt="Broke" src="Text-to-image_Broke.jpg">
-  <img width="300" alt="Lineage" src="Text-to-image_Lineage.jpg">
-  <img width="300" alt="Insomnia" src="Text-to-image_Insomnia.jpg">
-  <img width="300" alt="Radio Drama Thumbnail" src="Radio Drama Title copy.jpg">
-  <img width="175" alt="Reveal" src="Reveal.jpg">
+  <div> <img width="300" alt="Twisted" src="Text-to-image_Twisted.jpg">
+    <figcaption>Twisted</figcaption>
+  </div>
+  <div><img width="300" alt="Broke" src="Text-to-image_Broke.jpg">
+    <figcaption>Broke</figcaption>
+  </div>
+  <div><img width="300" alt="Lineage" src="Text-to-image_Lineage.jpg">
+    <figcaption>Lineage</figcaption>
+  </div>
+  <div> <img width="300" alt="Insomnia" src="Text-to-image_Insomnia.jpg">
+    <figcaption>Insomnia</figcaption>
+  </div>
 </p>
 
 
