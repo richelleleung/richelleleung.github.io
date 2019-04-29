@@ -44,5 +44,5 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 </p>
 ### Contact Me!
 
-Want to know more about me? Email me at richelle.leung@yahoo.com
-Check out [@doddchellee](https://www.instagram.com/doddchellee/) on instagram for my other leisure work as well!
+Want to know more about me? Please feel free to email me at richelle.leung@yahoo.com
+<br/> Check out [@doddchellee](https://www.instagram.com/doddchellee/) on instagram for my other leisure work as well!
