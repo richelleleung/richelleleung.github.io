@@ -27,8 +27,13 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 <p align="center">
   <img width="600" alt="Sample T-shirt w/ Logo" src="CaMP Sample T shirt with Logo.jpg">
 </p>
-
-
+<p align="center">
+  <img width="600" alt="Event Cover Banner" src="EOT S17 Banner.jpg">
+</p>
+<p align="center">
+  <img width="300" alt="Alpha Info Poster" src="Alpha Info Poster.jpg">
+  <img width="300" alt="Recruitment Poster" src="Alpha Recruitment Poster W18.jpg">
+</p>
 
 ### Contact Me!
 
