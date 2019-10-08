@@ -14,6 +14,20 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="300" alt="Insomnia" src="Text-to-image_Insomnia.jpg">
 </p>
 <p align="center">
+  <img width="600" alt="Sample T-shirt w/ Logo" src="CaMP Sample T shirt with Logo.jpg">
+</p>
+<p align="center">
+  <img width="300" alt="Camp Logo" src="Logo CaMP colored.png">
+  <img width="300" alt="JCAW Logo" src="JCAW logo 9 cropped.png">
+</p>
+<p align="center">
+  <img width="300" alt="Vans Design Side 1" src="Shoe Purple.png">
+  <img width="300" alt="Vans Design Side 2" src="Shoe Orange.png">
+</p>
+<p align="center">
+  <img width="600" alt="Vans Design Back" src="Shoe Back.png">
+</p>
+<p align="center">
   <img width="300" alt="Megazine Layout Designs" src="4 InstaSecrets.jpg">
   <img width="300" alt="Megazine Layout Designs" src="5 InstaSecrets.jpg">
   <img width="300" alt="Megazine Layout Designs" src="20 magazine.jpg">
@@ -37,15 +51,8 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="600" alt="Radio Drama Thumbnail" src="Radio Drama Title copy.jpg">
 </p>
 <p align="center">
-  <img width="300" alt="Camp Logo" src="Logo CaMP colored.png">
-  <img width="300" alt="JCAW Logo" src="JCAW logo 9 cropped.png">
-</p>
-<p align="center">
   <img width="300" alt="Self-reflection Grid Photograph Edits" src="Self-reflection Grid Photographs edit.png">
   <img width="300" alt="Photogram" src="Photogram_Time.jpg">
-</p>
-<p align="center">
-  <img width="600" alt="Sample T-shirt w/ Logo" src="CaMP Sample T shirt with Logo.jpg">
 </p>
 <p>
 </p>
