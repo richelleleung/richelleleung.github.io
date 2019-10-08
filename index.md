@@ -30,6 +30,10 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="600" alt="Business Cards" src="Business Cards.png">
 </p>
 <p align="center">
+  <img width="300" alt="Real Business Cards Front" src="ER_RSS_Bcard_front.jpg">
+  <img width="300" alt="Real Business Cards Back" src="ER_RSS_Bcard_back.jpg">
+</p>
+<p align="center">
   <img width="300" alt="Self-reflection Grid Photograph Edits" src="Self-reflection Grid Photographs edit.png">
   <img width="300" alt="Photogram" src="Photogram_Time.jpg">
 </p>
