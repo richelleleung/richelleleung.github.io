@@ -21,11 +21,11 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="300" alt="JCAW Logo" src="JCAW logo 9 cropped.png">
 </p>
 <p align="center">
-  <img width="300" alt="Vans Design Side 1" src="Shoe Purple.png">
-  <img width="300" alt="Vans Design Side 2" src="Shoe Orange.png">
+  <img width="300" alt="Vans Design Side 1" src="vans purple.png">
+  <img width="300" alt="Vans Design Side 2" src="shoe orange.png">
 </p>
 <p align="center">
-  <img width="600" alt="Vans Design Back" src="Shoe Back.png">
+  <img width="600" alt="Vans Design Back" src="shoe back.png">
 </p>
 <p align="center">
   <img width="300" alt="Megazine Layout Designs" src="4 InstaSecrets.jpg">
