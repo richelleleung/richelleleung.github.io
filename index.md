@@ -14,15 +14,15 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
   <img width="400" alt="Insomnia" src="Text-to-image_Insomnia.jpg">
 </p>
 <p align="center">
+  <img width="400" alt="Vans Design Side 1" src="vans purple.png">
+  <img width="400" alt="Vans Design Side 2" src="shoe orange copy.png">
+</p>
+<p align="center">
   <img width="400" alt="Camp Logo" src="Logo CaMP colored.png">
   <img width="400" alt="JCAW Logo" src="JCAW logo 9 cropped.png">
 </p>
 <p align="center">
   <img width="800" alt="Sample T-shirt w/ Logo" src="CaMP Sample T shirt with Logo.jpg">
-</p>
-<p align="center">
-  <img width="400" alt="Vans Design Side 1" src="shoe orange copy.png">
-  <img width="400" alt="Vans Design Side 2" src="vans purple.png">
 </p>
 <p align="center">
   <img width="400" alt="Camp Business Cards Front" src="Camp Bards front.png">
