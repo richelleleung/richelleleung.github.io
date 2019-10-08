@@ -8,53 +8,53 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 ### My Work
 
 <p align="center">
-  <img width="600" alt="Twisted" src="Text-to-image_Twisted.jpg">
-  <img width="600" alt="Broke" src="Text-to-image_Broke.jpg">
-  <img width="600" alt="Lineage" src="Text-to-image_Lineage.jpg">
-  <img width="600" alt="Insomnia" src="Text-to-image_Insomnia.jpg">
+  <img width="400" alt="Twisted" src="Text-to-image_Twisted.jpg">
+  <img width="400" alt="Broke" src="Text-to-image_Broke.jpg">
+  <img width="400" alt="Lineage" src="Text-to-image_Lineage.jpg">
+  <img width="400" alt="Insomnia" src="Text-to-image_Insomnia.jpg">
 </p>
 <p align="center">
-  <img width="600" alt="Camp Logo" src="Logo CaMP colored.png">
-  <img width="600" alt="JCAW Logo" src="JCAW logo 9 cropped.png">
+  <img width="400" alt="Camp Logo" src="Logo CaMP colored.png">
+  <img width="400" alt="JCAW Logo" src="JCAW logo 9 cropped.png">
 </p>
 <p align="center">
-  <img width="1200" alt="Sample T-shirt w/ Logo" src="CaMP Sample T shirt with Logo.jpg">
+  <img width="800" alt="Sample T-shirt w/ Logo" src="CaMP Sample T shirt with Logo.jpg">
 </p>
 <p align="center">
-  <img width="600" alt="Vans Design Side 1" src="vans purple.png">
-  <img width="600" alt="Vans Design Side 2" src="vans orange.png">
+  <img width="400" alt="Vans Design Side 1" src="vans purple.png">
+  <img width="400" alt="Vans Design Side 2" src="vans orange.png">
 </p>
 <p align="center">
-  <img width="600" alt="Camp Business Cards Front" src="Camp Bards front.png">
-  <img width="600" alt="Camp Business Cards Back" src="Camp Bcards back.png">
+  <img width="400" alt="Camp Business Cards Front" src="Camp Bards front.png">
+  <img width="400" alt="Camp Business Cards Back" src="Camp Bcards back.png">
 </p>
 <p align="center">
   <img width="600" alt="Real Business Cards Front" src="ER_RSS_Bcard_front.jpg">
   <img width="600" alt="Real Business Cards Back" src="ER_RSS_Bcard_back.jpg">
 </p>
 <p align="center">
-  <img width="600" alt="Self-reflection Grid Photograph Edits" src="Self-reflection Grid Photographs edit.png">
-  <img width="600" alt="Photogram" src="Photogram_Time.jpg">
+  <img width="400" alt="Self-reflection Grid Photograph Edits" src="Self-reflection Grid Photographs edit.png">
+  <img width="400" alt="Photogram" src="Photogram_Time.jpg">
 </p>
 <p align="center">
-  <img width="1200" alt="Event Cover Banner" src="EOT S17 Banner.jpg">
+  <img width="800" alt="Event Cover Banner" src="EOT S17 Banner.jpg">
 </p>
 <p align="center">
-  <img width="1200" alt="Radio Drama Thumbnail" src="Radio Drama Title copy.jpg">
+  <img width="800" alt="Radio Drama Thumbnail" src="Radio Drama Title copy.jpg">
 </p>
 <p align="center">
-  <img width="600" alt="Megazine Layout Designs" src="4 InstaSecrets.jpg">
-  <img width="600" alt="Megazine Layout Designs" src="5 InstaSecrets.jpg">
-  <img width="600" alt="Megazine Layout Designs" src="20 magazine.jpg">
-  <img width="600" alt="Megazine Layout Designs" src="21 magazine.jpg">
-  <img width="600" alt="Megazine Layout Designs" src="6 magazine.jpg">
-  <img width="600" alt="Megazine Layout Designs" src="7  magazine.jpg">
+  <img width="400" alt="Megazine Layout Designs" src="4 InstaSecrets.jpg">
+  <img width="400" alt="Megazine Layout Designs" src="5 InstaSecrets.jpg">
+  <img width="400" alt="Megazine Layout Designs" src="20 magazine.jpg">
+  <img width="400" alt="Megazine Layout Designs" src="21 magazine.jpg">
+  <img width="400" alt="Megazine Layout Designs" src="6 magazine.jpg">
+  <img width="400" alt="Megazine Layout Designs" src="7  magazine.jpg">
 </p>
 <p align="center">
-  <img width="600" alt="Alpha Info Poster" src="Alpha Info Poster.jpg">
-  <img width="600" alt="Hiring poster" src="Hiring poster W19 (3) copy.jpg">
-  <img width="600" alt="Recruitment Poster" src="Alpha Recruitment Poster W18.jpg">
-  <img width="600" alt="Menu Poster" src="Le Menu.png">
+  <img width="400" alt="Alpha Info Poster" src="Alpha Info Poster.jpg">
+  <img width="400" alt="Hiring poster" src="Hiring poster W19 (3) copy.jpg">
+  <img width="400" alt="Recruitment Poster" src="Alpha Recruitment Poster W18.jpg">
+  <img width="400" alt="Menu Poster" src="Le Menu.png">
 </p>
 <p>
 </p>
