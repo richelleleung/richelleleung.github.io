@@ -22,15 +22,15 @@ Adobe Photoshop, HTML, Microsoft Office, Calligraphies, Sketches
 </p>
 <p align="center">
   <img width="400" alt="Vans Design Side 1" src="vans purple.png">
-  <img width="400" alt="Vans Design Side 2" src="vans orange.png">
+  <img width="400" alt="Vans Design Side 2" src="shoe orange.png">
 </p>
 <p align="center">
   <img width="400" alt="Camp Business Cards Front" src="Camp Bards front.png">
   <img width="400" alt="Camp Business Cards Back" src="Camp Bcards back.png">
 </p>
 <p align="center">
-  <img width="600" alt="Real Business Cards Front" src="ER_RSS_Bcard_front.jpg">
-  <img width="600" alt="Real Business Cards Back" src="ER_RSS_Bcard_back.jpg">
+  <img width="400" alt="Real Business Cards Front" src="ER_RSS_Bcard_front.jpg">
+  <img width="400" alt="Real Business Cards Back" src="ER_RSS_Bcard_back.jpg">
 </p>
 <p align="center">
   <img width="400" alt="Self-reflection Grid Photograph Edits" src="Self-reflection Grid Photographs edit.png">
